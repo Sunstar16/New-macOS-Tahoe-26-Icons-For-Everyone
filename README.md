@@ -1,2 +1,2 @@
-# macOS-Tahoe-26-Icons-For-Everyone
-macOS Tahoe icons (liquid glass, light and dark mode) launching the same day as macOS Tahoe 26.0 for any macos version or device!
+# MacOS-Tahoe-26-Icons-For-Everyone
+MacOS Tahoe icons (liquid glass, light and dark mode variants) have launched the same day as macOS Tahoe 26.0 did. Icons that port the aesthetics of Tahoe for any macos version or device! so that you don't feel outdated! Made with ❤︎ by @Sunstar_16
