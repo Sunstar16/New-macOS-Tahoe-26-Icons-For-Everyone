@@ -3,4 +3,5 @@ MacOS Tahoe icons (liquid glass, light and dark mode variants) launched the same
 
 Made with ❤︎ by @Sunstar_16
 
-© 2025-26 macOS Tahoe Icons by @Sunstar_16. All rights reserved.
+© 2025-26 macOS Tahoe Icons by @Sunstar_16. 
+All rights reserved.
